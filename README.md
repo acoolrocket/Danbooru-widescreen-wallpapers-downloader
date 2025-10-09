@@ -15,7 +15,7 @@ Tested in Windows 10.
 
 ### Install via CMD:
 
-pip install requests beautifulsoup4
+> pip install requests beautifulsoup4
 
 ### To use:
 
