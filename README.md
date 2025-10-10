@@ -1,5 +1,5 @@
 # Danbooru-widescreen-wallpapers-downloader
-![Danbooru widescreen wallpaper downloader - Full logo](https://github.com/user-attachments/assets/5eda1d87-189f-4f05-9c8c-40c2f178257e)
+![Danbooru widescreen wallpaper downloader - Full logo](https://github.com/user-attachments/assets/f45eddaf-3b04-4695-b6f9-1c324ce82f98)
 
 Download various widescreen anime pictures from Danbooru from your chosen character/anime tag.
 
