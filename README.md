@@ -1,9 +1,13 @@
 # Danbooru-widescreen-wallpapers-downloader
+![Danbooru widescreen wallpaper downloader - Full logo](https://github.com/user-attachments/assets/5eda1d87-189f-4f05-9c8c-40c2f178257e)
+
 Download various widescreen anime pictures from Danbooru from your chosen character/anime tag.
 
 Now you'd be asking, why not just search with ratio:16:9? Yes that's if you want exactly that aspect ratio, but as artists do, they just post in a huge variety of specific aspect ratios. 
 
 And since there's no way to search between a variety of aspect ratios natively in Danbooru, this will download search results from aspect ratios ranging from 3:1 (super ultrawide) to 4:3.
+
+https://github.com/user-attachments/assets/24ae5276-049c-4aac-9690-43a3da5ffa7d
 
 # Requirements:
 
