@@ -7,6 +7,8 @@ Now you'd be asking, why not just search with ratio:16:9? Yes that's if you want
 
 And since there's no way to search between a variety of aspect ratios natively in Danbooru, this will download search results from aspect ratios ranging from 3:1 (super ultrawide) to 4:3.
 
+### [Check out the Gelbooru version too.](https://github.com/acoolrocket/Gelbooru-widescreen-wallpapers-downloader)
+
 https://github.com/user-attachments/assets/24ae5276-049c-4aac-9690-43a3da5ffa7d
 
 # Requirements:
