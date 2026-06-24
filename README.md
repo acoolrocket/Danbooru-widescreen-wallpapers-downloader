@@ -15,13 +15,12 @@ https://github.com/user-attachments/assets/24ae5276-049c-4aac-9690-43a3da5ffa7d
 
 - Python 3.7+
 - requests
-- beautifulsoup4
 
 Tested in Windows 10.
 
 ### Install via CMD:
 
-> pip install requests beautifulsoup4
+> pip install requests
 
 ### To use:
 
@@ -29,7 +28,7 @@ Just download the release and extract in a subfolder.
 
 Then just run 'danbooruratiodl_run.bat' or run the .py itself manually in CMD.
 
-You'll be prompted first for the character/anime tag, then if you want NSFW results with yes/no.
+You'll be prompted first for the character/anime tags, then if you want NSFW results with yes/no and animated content.
 
 # How and what the program does:
 
@@ -47,4 +46,4 @@ Search duration/API fetch speed reflects the typical value of free users.
 
 Choose Danbooru for this script as Gelbooru, Sankaku Complex, Konachan and the likes have no aspect ratio search feature. They either have order:landscape that's arbitrary and/or a pixel width/height search function.
 
-This script was done using perplexity ai as I'm a very novice programmer, but from my testing it definitely works and goes through all page results to not miss anything.
+This script was done using Google Gemini as I'm a very novice programmer, but from my testing it definitely works and goes through all page results to not miss anything.
